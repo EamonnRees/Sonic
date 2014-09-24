@@ -1,0 +1,10 @@
+ body 
+ {
+ background-image:url("background.jpg");
+ 
+ font-family:Helvetica;
+ 
+ background-color:blue;
+ }
+ h1   {color:black}
+ table, th, td {border: 1px solid black; border-collapse: collapse;}
